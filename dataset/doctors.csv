@@ -1,0 +1,16 @@
+doctor_id,doctor_name,specialty,clinic_schedule,available_hours_per_week
+D001,Doctor 01,Cardiology,Full Day,12
+D002,Doctor 02,Neurology,Morning,20
+D003,Doctor 03,Orthopedics,Morning,16
+D004,Doctor 04,Dermatology,Morning,12
+D005,Doctor 05,Pediatrics,Full Day,30
+D006,Doctor 06,Cardiology,Morning,30
+D007,Doctor 07,Neurology,Afternoon,12
+D008,Doctor 08,Orthopedics,Morning,12
+D009,Doctor 09,Dermatology,Morning,16
+D010,Doctor 10,Pediatrics,Full Day,30
+D011,Doctor 11,Cardiology,Morning,30
+D012,Doctor 12,Neurology,Morning,30
+D013,Doctor 13,Orthopedics,Afternoon,16
+D014,Doctor 14,Dermatology,Afternoon,30
+D015,Doctor 15,Pediatrics,Afternoon,12

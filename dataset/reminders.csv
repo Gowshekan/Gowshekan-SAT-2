@@ -1,0 +1,965 @@
+reminder_id,appointment_id,reminder_type,sent_status,response
+R00001,A00001,Phone Call,Not Sent,No Response
+R00002,A00002,SMS,Not Sent,
+R00003,A00003,Email,Failed,No Response
+R00004,A00004,SMS,,Requested Reschedule
+R00005,A00005,SMS,Not Sent,Confirmed
+R00006,A00007,SMS,Sent,No Response
+R00007,A00008,Email,Sent,Confirmed
+R00008,A00009,Email,Failed,
+R00009,A00010,SMS,Not Sent,
+R00010,A00011,SMS,Not Sent,Confirmed
+R00011,A00013,Phone Call,Failed,Confirmed
+R00012,A00015,Phone Call,Not Sent,
+R00013,A00017,Email,Not Sent,Requested Reschedule
+R00014,A00018,SMS,Sent,Requested Reschedule
+R00015,A00021,Email,Not Sent,No Response
+R00016,A00022,Email,Sent,No Response
+R00017,A00023,Email,Sent,
+R00018,A00024,Email,Not Sent,Requested Reschedule
+R00019,A00025,SMS,Not Sent,
+R00020,A00026,Email,Sent,
+R00021,A00027,Phone Call,Sent,
+R00022,A00029,Phone Call,Failed,Requested Reschedule
+R00023,A00030,Email,Failed,Requested Reschedule
+R00024,A00031,Phone Call,Not Sent,No Response
+R00025,A00032,Phone Call,Not Sent,Requested Reschedule
+R00026,A00034,Email,Failed,Confirmed
+R00027,A00035,Email,Failed,Confirmed
+R00028,A00036,Phone Call,Failed,Confirmed
+R00029,A00038,Email,Failed,Confirmed
+R00030,A00041,SMS,Not Sent,No Response
+R00031,A00042,SMS,Failed,No Response
+R00032,A00043,SMS,Not Sent,No Response
+R00033,A00044,Email,Failed,Confirmed
+R00034,A00045,Email,Sent,Confirmed
+R00035,A00046,Phone Call,Failed,No Response
+R00036,A00048,Email,Not Sent,Confirmed
+R00037,A00049,SMS,Sent,
+R00038,A00052,SMS,Failed,
+R00039,A00054,Email,Not Sent,Confirmed
+R00040,A00055,Phone Call,Failed,Confirmed
+R00041,A00056,Phone Call,Failed,No Response
+R00042,A00057,SMS,Sent,No Response
+R00043,A00058,Email,Failed,
+R00044,A00059,Phone Call,Sent,No Response
+R00045,A00060,SMS,Failed,No Response
+R00046,A00061,Email,Failed,Confirmed
+R00047,A00062,Email,Sent,
+R00048,A00063,SMS,Not Sent,No Response
+R00049,A00064,Phone Call,Sent,
+R00050,A00065,SMS,Sent,No Response
+R00051,A00066,Email,Failed,Requested Reschedule
+R00052,A00068,Phone Call,Not Sent,
+R00053,A00069,Phone Call,Sent,Requested Reschedule
+R00054,A00070,SMS,Sent,Requested Reschedule
+R00055,A00072,Phone Call,Failed,No Response
+R00056,A00073,Email,Sent,No Response
+R00057,A00074,SMS,Not Sent,Confirmed
+R00058,A00075,Phone Call,Sent,No Response
+R00059,A00076,Phone Call,Not Sent,Confirmed
+R00060,A00077,SMS,Sent,Requested Reschedule
+R00061,A00078,Email,Sent,No Response
+R00062,A00079,Email,Failed,
+R00063,A00080,Phone Call,Sent,Confirmed
+R00064,A00081,Phone Call,Not Sent,Confirmed
+R00065,A00082,Email,Failed,No Response
+R00066,A00083,Email,Sent,
+R00067,A00085,Email,Not Sent,Requested Reschedule
+R00068,A00087,Phone Call,Sent,Confirmed
+R00069,A00089,Email,Sent,
+R00070,A00091,Email,Failed,
+R00071,A00092,Email,Sent,No Response
+R00072,A00094,SMS,Not Sent,Confirmed
+R00073,A00095,Phone Call,Not Sent,Requested Reschedule
+R00074,A00096,SMS,Not Sent,No Response
+R00075,A00097,Email,Failed,Requested Reschedule
+R00076,A00098,SMS,Not Sent,Requested Reschedule
+R00077,A00099,Email,Failed,Confirmed
+R00078,A00101,Email,Failed,
+R00079,A00102,Email,Not Sent,
+R00080,A00104,Phone Call,Not Sent,No Response
+R00081,A00105,Phone Call,Sent,
+R00082,A00107,SMS,Not Sent,No Response
+R00083,A00108,SMS,Not Sent,No Response
+R00084,A00109,Phone Call,Not Sent,No Response
+R00085,A00112,Phone Call,Not Sent,No Response
+R00086,A00113,SMS,Not Sent,Confirmed
+R00087,A00114,Phone Call,Sent,Confirmed
+R00088,A00116,Phone Call,Failed,Requested Reschedule
+R00089,A00117,SMS,Not Sent,Requested Reschedule
+R00090,A00118,SMS,Sent,No Response
+R00091,A00119,Email,Not Sent,Requested Reschedule
+R00092,A00120,SMS,Sent,No Response
+R00093,A00121,Email,Failed,Confirmed
+R00094,A00122,Email,Sent,
+R00095,A00123,Phone Call,Sent,
+R00096,A00124,SMS,Sent,No Response
+R00097,A00125,Phone Call,Sent,Requested Reschedule
+R00098,A00126,SMS,Not Sent,No Response
+R00099,A00127,Email,Failed,
+R00100,A00128,Phone Call,Failed,No Response
+R00101,A00129,Email,Sent,
+R00102,A00130,Email,Not Sent,Confirmed
+R00103,A00131,SMS,Failed,Confirmed
+R00104,A00132,Email,Failed,Confirmed
+R00105,A00133,SMS,Not Sent,Confirmed
+R00106,A00134,Phone Call,Failed,Requested Reschedule
+R00107,A00135,Email,Failed,Requested Reschedule
+R00108,A00137,Email,Sent,
+R00109,A00138,SMS,Not Sent,Confirmed
+R00110,A00139,Phone Call,Not Sent,No Response
+R00111,A00140,SMS,Failed,Confirmed
+R00112,A00141,Phone Call,Not Sent,No Response
+R00113,A00142,Email,Failed,No Response
+R00114,A00143,Email,Sent,Confirmed
+R00115,A00144,Email,Failed,Confirmed
+R00116,A00145,Phone Call,Not Sent,No Response
+R00117,A00146,Phone Call,Sent,No Response
+R00118,A00147,SMS,Not Sent,No Response
+R00119,A00149,Phone Call,Not Sent,Confirmed
+R00120,A00150,Phone Call,Not Sent,
+R00121,A00151,SMS,Sent,No Response
+R00122,A00152,Phone Call,Failed,Confirmed
+R00123,A00153,Email,Failed,Confirmed
+R00124,A00155,Phone Call,Not Sent,
+R00125,A00156,SMS,Sent,Confirmed
+R00126,A00158,SMS,Not Sent,No Response
+R00127,A00159,SMS,Sent,Requested Reschedule
+R00128,A00160,Phone Call,Sent,Requested Reschedule
+R00129,A00162,SMS,Failed,No Response
+R00130,A00163,Phone Call,Not Sent,No Response
+R00131,A00164,SMS,Failed,Confirmed
+R00132,A00165,Phone Call,Failed,Requested Reschedule
+R00133,A00167,Phone Call,Not Sent,Confirmed
+R00134,A00168,Phone Call,Sent,Requested Reschedule
+R00135,A00169,Email,Not Sent,No Response
+R00136,A00170,Email,Sent,Confirmed
+R00137,A00171,Phone Call,Not Sent,Confirmed
+R00138,A00172,Phone Call,Not Sent,Requested Reschedule
+R00139,A00173,Email,Failed,Requested Reschedule
+R00140,A00174,SMS,Not Sent,Requested Reschedule
+R00141,A00175,Phone Call,Failed,
+R00142,A00178,SMS,Failed,No Response
+R00143,A00179,Email,Failed,Confirmed
+R00144,A00183,Email,Failed,Requested Reschedule
+R00145,A00185,Email,Not Sent,No Response
+R00146,A00186,Phone Call,Sent,Requested Reschedule
+R00147,A00187,SMS,Failed,Confirmed
+R00148,A00188,Email,Failed,
+R00149,A00189,SMS,Sent,No Response
+R00150,A00190,Phone Call,Failed,
+R00151,A00192,Email,Failed,No Response
+R00152,A00193,Phone Call,Not Sent,Requested Reschedule
+R00153,A00195,Email,Not Sent,Confirmed
+R00154,A00196,Email,Not Sent,Requested Reschedule
+R00155,A00197,Phone Call,Sent,Requested Reschedule
+R00156,A00198,SMS,Sent,Requested Reschedule
+R00157,A00199,Email,Failed,No Response
+R00158,A00200,Phone Call,Sent,Confirmed
+R00159,A00201,Phone Call,Failed,Confirmed
+R00160,A00202,Phone Call,Failed,No Response
+R00161,A00203,Email,Failed,No Response
+R00162,A00204,SMS,Sent,Requested Reschedule
+R00163,A00205,Email,Sent,
+R00164,A00206,SMS,Failed,No Response
+R00165,A00207,Phone Call,Failed,Requested Reschedule
+R00166,A00208,SMS,Sent,No Response
+R00167,A00209,Email,Failed,
+R00168,A00211,Email,Failed,Confirmed
+R00169,A00214,Email,Sent,Confirmed
+R00170,A00215,SMS,Not Sent,Requested Reschedule
+R00171,A00216,Phone Call,Failed,No Response
+R00172,A00217,Email,Failed,Requested Reschedule
+R00173,A00218,Phone Call,Failed,Confirmed
+R00174,A00219,SMS,Failed,Confirmed
+R00175,A00221,Email,Sent,No Response
+R00176,A00222,SMS,Failed,Requested Reschedule
+R00177,A00225,Phone Call,Sent,Confirmed
+R00178,A00226,SMS,Failed,
+R00179,A00227,SMS,Failed,Confirmed
+R00180,A00228,Phone Call,Sent,
+R00181,A00229,Email,Not Sent,
+R00182,A00230,Email,Failed,No Response
+R00183,A00231,Phone Call,Not Sent,Confirmed
+R00184,A00232,SMS,Sent,
+R00185,A00233,Phone Call,Not Sent,
+R00186,A00234,Email,Sent,No Response
+R00187,A00235,SMS,Failed,
+R00188,A00236,Phone Call,Not Sent,Requested Reschedule
+R00189,A00237,Phone Call,Sent,Confirmed
+R00190,A00238,SMS,Failed,
+R00191,A00239,Email,Failed,No Response
+R00192,A00240,Phone Call,Not Sent,Confirmed
+R00193,A00241,Email,Sent,Requested Reschedule
+R00194,A00242,SMS,Not Sent,
+R00195,A00243,Phone Call,Not Sent,No Response
+R00196,A00244,Email,Failed,No Response
+R00197,A00245,Email,Failed,Requested Reschedule
+R00198,A00246,Email,Sent,Confirmed
+R00199,A00248,Email,Failed,Confirmed
+R00200,A00249,Phone Call,Failed,Confirmed
+R00201,A00250,Email,Failed,Confirmed
+R00202,A00251,Phone Call,Not Sent,
+R00203,A00252,SMS,Not Sent,Confirmed
+R00204,A00253,SMS,Sent,Confirmed
+R00205,A00254,Phone Call,Failed,Requested Reschedule
+R00206,A00255,SMS,Failed,No Response
+R00207,A00256,Email,Failed,Requested Reschedule
+R00208,A00258,SMS,Failed,Requested Reschedule
+R00209,A00259,SMS,Not Sent,
+R00210,A00261,SMS,Not Sent,Confirmed
+R00211,A00262,Phone Call,Failed,Confirmed
+R00212,A00264,Email,Not Sent,
+R00213,A00265,Phone Call,Failed,
+R00214,A00266,Phone Call,Sent,No Response
+R00215,A00267,Phone Call,Not Sent,
+R00216,A00269,SMS,Not Sent,No Response
+R00217,A00270,SMS,Not Sent,Confirmed
+R00218,A00271,SMS,Failed,
+R00219,A00272,Phone Call,Not Sent,
+R00220,A00274,Phone Call,Failed,No Response
+R00221,A00275,Phone Call,Not Sent,
+R00222,A00276,Email,Sent,
+R00223,A00277,Email,Failed,No Response
+R00224,A00278,SMS,Failed,Requested Reschedule
+R00225,A00280,SMS,Not Sent,Requested Reschedule
+R00226,A00281,SMS,Not Sent,Confirmed
+R00227,A00282,Phone Call,Not Sent,Requested Reschedule
+R00228,A00283,SMS,Not Sent,Confirmed
+R00229,A00284,Email,Not Sent,Confirmed
+R00230,A00285,Email,Not Sent,Requested Reschedule
+R00231,A00286,Phone Call,Failed,Confirmed
+R00232,A00287,Phone Call,Failed,Requested Reschedule
+R00233,A00288,SMS,Failed,Requested Reschedule
+R00234,A00289,Email,Not Sent,Requested Reschedule
+R00235,A00291,Email,Not Sent,
+R00236,A00292,Email,Sent,Requested Reschedule
+R00237,A00293,SMS,Failed,
+R00238,A00294,Phone Call,Sent,Requested Reschedule
+R00239,A00295,Phone Call,Failed,Requested Reschedule
+R00240,A00296,Email,Sent,No Response
+R00241,A00297,Phone Call,Not Sent,
+R00242,A00299,Phone Call,Not Sent,No Response
+R00243,A00300,Phone Call,Not Sent,Confirmed
+R00244,A00303,Phone Call,Sent,
+R00245,A00304,Email,Sent,
+R00246,A00305,SMS,Sent,Requested Reschedule
+R00247,A00306,SMS,Sent,Confirmed
+R00248,A00307,Phone Call,Failed,Requested Reschedule
+R00249,A00308,Phone Call,Not Sent,No Response
+R00250,A00309,Phone Call,Failed,
+R00251,A00310,Phone Call,Failed,Confirmed
+R00252,A00312,Email,Not Sent,Requested Reschedule
+R00253,A00313,Email,Sent,Confirmed
+R00254,A00314,Phone Call,Failed,Requested Reschedule
+R00255,A00315,Email,Sent,Requested Reschedule
+R00256,A00316,Email,Failed,No Response
+R00257,A00317,Email,Sent,Requested Reschedule
+R00258,A00318,Email,Sent,Requested Reschedule
+R00259,A00319,SMS,Sent,Confirmed
+R00260,A00320,Email,Not Sent,Confirmed
+R00261,A00321,Phone Call,Sent,Requested Reschedule
+R00262,A00322,SMS,Sent,Confirmed
+R00263,A00324,Email,Sent,Confirmed
+R00264,A00326,Phone Call,Not Sent,No Response
+R00265,A00327,SMS,Not Sent,No Response
+R00266,A00328,Phone Call,Failed,Requested Reschedule
+R00267,A00329,Phone Call,Sent,
+R00268,A00330,Phone Call,Not Sent,Requested Reschedule
+R00269,A00331,SMS,Sent,Requested Reschedule
+R00270,A00332,Phone Call,Failed,Confirmed
+R00271,A00334,Phone Call,Failed,Confirmed
+R00272,A00336,Email,Failed,No Response
+R00273,A00337,SMS,Sent,
+R00274,A00338,Email,Sent,
+R00275,A00339,SMS,Sent,Confirmed
+R00276,A00340,SMS,Failed,
+R00277,A00342,SMS,Not Sent,Confirmed
+R00278,A00343,Email,Failed,No Response
+R00279,A00344,Email,Failed,Confirmed
+R00280,A00345,Phone Call,Failed,
+R00281,A00346,Email,Not Sent,Confirmed
+R00282,A00347,SMS,Failed,
+R00283,A00348,Email,Failed,Requested Reschedule
+R00284,A00349,Phone Call,Sent,Confirmed
+R00285,A00350,Phone Call,Failed,Confirmed
+R00286,A00351,SMS,Failed,No Response
+R00287,A00352,Phone Call,Failed,No Response
+R00288,A00353,Phone Call,Sent,Requested Reschedule
+R00289,A00354,Email,Not Sent,
+R00290,A00355,SMS,Sent,No Response
+R00291,A00356,Phone Call,Not Sent,No Response
+R00292,A00357,Phone Call,Not Sent,Requested Reschedule
+R00293,A00358,SMS,Failed,Confirmed
+R00294,A00359,Phone Call,Failed,Confirmed
+R00295,A00360,Email,Not Sent,
+R00296,A00362,SMS,Not Sent,No Response
+R00297,A00363,Email,Sent,
+R00298,A00364,SMS,Not Sent,Confirmed
+R00299,A00365,SMS,Sent,Confirmed
+R00300,A00366,Phone Call,Failed,Confirmed
+R00301,A00367,SMS,Not Sent,Confirmed
+R00302,A00368,SMS,Not Sent,No Response
+R00303,A00370,Phone Call,Not Sent,
+R00304,A00371,Phone Call,Not Sent,No Response
+R00305,A00374,Phone Call,Not Sent,No Response
+R00306,A00375,Phone Call,Failed,No Response
+R00307,A00376,Phone Call,Failed,No Response
+R00308,A00377,SMS,Not Sent,Confirmed
+R00309,A00378,SMS,Not Sent,
+R00310,A00379,SMS,Failed,Confirmed
+R00311,A00380,Phone Call,Sent,Requested Reschedule
+R00312,A00381,SMS,Failed,No Response
+R00313,A00382,Phone Call,Failed,
+R00314,A00383,Email,Sent,Confirmed
+R00315,A00384,Email,Failed,Confirmed
+R00316,A00386,Email,Failed,Confirmed
+R00317,A00387,Email,Sent,Confirmed
+R00318,A00388,Phone Call,Not Sent,No Response
+R00319,A00389,Phone Call,Not Sent,No Response
+R00320,A00390,Email,Sent,No Response
+R00321,A00393,SMS,Sent,Confirmed
+R00322,A00394,Phone Call,Failed,No Response
+R00323,A00395,SMS,Not Sent,
+R00324,A00396,SMS,Sent,No Response
+R00325,A00398,SMS,Sent,Confirmed
+R00326,A00399,Phone Call,Not Sent,Requested Reschedule
+R00327,A00400,SMS,Not Sent,Requested Reschedule
+R00328,A00401,SMS,Failed,No Response
+R00329,A00402,Phone Call,Failed,No Response
+R00330,A00404,SMS,Not Sent,
+R00331,A00406,SMS,Not Sent,
+R00332,A00407,Email,Sent,
+R00333,A00408,SMS,Failed,Requested Reschedule
+R00334,A00409,Phone Call,Sent,Confirmed
+R00335,A00410,Phone Call,Failed,
+R00336,A00411,Phone Call,Failed,No Response
+R00337,A00412,Email,Not Sent,No Response
+R00338,A00415,SMS,Not Sent,
+R00339,A00416,SMS,Failed,Requested Reschedule
+R00340,A00417,SMS,Not Sent,No Response
+R00341,A00418,Email,Not Sent,No Response
+R00342,A00422,Phone Call,Sent,Confirmed
+R00343,A00423,Phone Call,Not Sent,Confirmed
+R00344,A00424,Phone Call,Failed,Confirmed
+R00345,A00425,Email,Sent,Confirmed
+R00346,A00426,Phone Call,Sent,No Response
+R00347,A00427,SMS,Not Sent,Confirmed
+R00348,A00428,Email,Failed,No Response
+R00349,A00429,Phone Call,Not Sent,Confirmed
+R00350,A00430,SMS,Sent,
+R00351,A00432,Email,Failed,Confirmed
+R00352,A00433,Email,Not Sent,Requested Reschedule
+R00353,A00434,Email,Failed,Requested Reschedule
+R00354,A00436,Email,Sent,Confirmed
+R00355,A00438,SMS,Sent,Requested Reschedule
+R00356,A00439,Email,Failed,
+R00357,A00440,Email,Failed,No Response
+R00358,A00441,SMS,Sent,No Response
+R00359,A00443,Email,Sent,
+R00360,A00445,Email,Not Sent,No Response
+R00361,A00446,Phone Call,Failed,Requested Reschedule
+R00362,A00447,SMS,Failed,Requested Reschedule
+R00363,A00448,Phone Call,Failed,
+R00364,A00449,Email,Sent,
+R00365,A00450,Phone Call,Not Sent,Requested Reschedule
+R00366,A00451,SMS,Not Sent,Confirmed
+R00367,A00453,SMS,Sent,
+R00368,A00454,SMS,Sent,Confirmed
+R00369,A00455,Phone Call,Not Sent,No Response
+R00370,A00456,Phone Call,Sent,Confirmed
+R00371,A00457,Phone Call,Not Sent,No Response
+R00372,A00458,Phone Call,Failed,Confirmed
+R00373,A00459,Email,Sent,No Response
+R00374,A00460,Email,Failed,Requested Reschedule
+R00375,A00461,Email,Failed,
+R00376,A00462,Phone Call,Not Sent,
+R00377,A00463,SMS,Sent,Requested Reschedule
+R00378,A00465,SMS,Failed,Requested Reschedule
+R00379,A00466,SMS,Failed,
+R00380,A00467,SMS,Sent,Requested Reschedule
+R00381,A00470,SMS,Not Sent,No Response
+R00382,A00471,Email,Sent,Requested Reschedule
+R00383,A00472,SMS,Failed,Requested Reschedule
+R00384,A00473,Email,Not Sent,Confirmed
+R00385,A00474,Phone Call,Failed,No Response
+R00386,A00475,SMS,Sent,Requested Reschedule
+R00387,A00477,Phone Call,Failed,No Response
+R00388,A00479,Email,Not Sent,Requested Reschedule
+R00389,A00480,Email,Failed,Requested Reschedule
+R00390,A00481,Phone Call,Not Sent,
+R00391,A00482,SMS,Not Sent,
+R00392,A00483,Phone Call,Not Sent,Confirmed
+R00393,A00484,Phone Call,Not Sent,No Response
+R00394,A00485,Email,Failed,Confirmed
+R00395,A00486,Phone Call,Not Sent,No Response
+R00396,A00487,Email,Sent,
+R00397,A00488,SMS,Sent,
+R00398,A00489,Email,Not Sent,Confirmed
+R00399,A00490,Phone Call,Sent,
+R00400,A00491,Phone Call,Sent,Requested Reschedule
+R00401,A00492,SMS,Failed,Confirmed
+R00402,A00493,Phone Call,Failed,
+R00403,A00494,Email,Not Sent,
+R00404,A00496,SMS,Not Sent,Confirmed
+R00405,A00497,SMS,Failed,Requested Reschedule
+R00406,A00499,SMS,Failed,Confirmed
+R00407,A00500,SMS,Failed,
+R00408,A00501,SMS,Not Sent,No Response
+R00409,A00502,Email,Failed,Requested Reschedule
+R00410,A00503,Phone Call,Failed,Requested Reschedule
+R00411,A00504,SMS,Failed,No Response
+R00412,A00506,SMS,Failed,
+R00413,A00507,SMS,Failed,
+R00414,A00508,SMS,Not Sent,No Response
+R00415,A00509,SMS,Failed,
+R00416,A00510,Email,Failed,
+R00417,A00511,Email,Failed,
+R00418,A00513,Phone Call,Not Sent,Confirmed
+R00419,A00514,Phone Call,Sent,No Response
+R00420,A00515,Phone Call,Not Sent,No Response
+R00421,A00516,Phone Call,Failed,Requested Reschedule
+R00422,A00517,Phone Call,Failed,Confirmed
+R00423,A00518,Email,Not Sent,Confirmed
+R00424,A00519,SMS,Not Sent,No Response
+R00425,A00520,Phone Call,Sent,Requested Reschedule
+R00426,A00522,Email,Failed,Requested Reschedule
+R00427,A00523,Email,Failed,Confirmed
+R00428,A00524,SMS,Sent,Confirmed
+R00429,A00525,Phone Call,Failed,
+R00430,A00526,SMS,Sent,Confirmed
+R00431,A00527,Email,Sent,No Response
+R00432,A00528,Phone Call,Not Sent,Confirmed
+R00433,A00529,SMS,Sent,Confirmed
+R00434,A00531,SMS,Failed,Requested Reschedule
+R00435,A00534,Email,Failed,No Response
+R00436,A00535,SMS,Not Sent,Confirmed
+R00437,A00536,Email,Not Sent,No Response
+R00438,A00537,SMS,Sent,No Response
+R00439,A00539,SMS,Sent,Confirmed
+R00440,A00540,SMS,Failed,Confirmed
+R00441,A00541,Phone Call,Not Sent,Confirmed
+R00442,A00542,SMS,Failed,Confirmed
+R00443,A00543,SMS,Sent,Confirmed
+R00444,A00545,Email,Sent,No Response
+R00445,A00546,Email,Sent,No Response
+R00446,A00549,Email,Sent,No Response
+R00447,A00550,Email,Sent,Confirmed
+R00448,A00551,SMS,Sent,Requested Reschedule
+R00449,A00553,SMS,Not Sent,Confirmed
+R00450,A00556,Phone Call,Not Sent,No Response
+R00451,A00557,Phone Call,Sent,No Response
+R00452,A00559,Phone Call,Not Sent,No Response
+R00453,A00560,Phone Call,Failed,Confirmed
+R00454,A00561,Phone Call,Sent,
+R00455,A00562,SMS,Not Sent,Confirmed
+R00456,A00563,Phone Call,Sent,
+R00457,A00564,Email,Not Sent,Requested Reschedule
+R00458,A00566,Phone Call,Not Sent,
+R00459,A00568,Email,Sent,
+R00460,A00569,Email,Sent,
+R00461,A00570,SMS,Failed,Confirmed
+R00462,A00571,Email,Failed,Confirmed
+R00463,A00574,SMS,Sent,Requested Reschedule
+R00464,A00575,SMS,Failed,Confirmed
+R00465,A00577,Email,Failed,Requested Reschedule
+R00466,A00579,Phone Call,Not Sent,
+R00467,A00580,SMS,Sent,
+R00468,A00581,SMS,Failed,
+R00469,A00582,SMS,Sent,Confirmed
+R00470,A00583,Email,Sent,
+R00471,A00584,Email,Sent,
+R00472,A00585,Email,Sent,Requested Reschedule
+R00473,A00586,Phone Call,Sent,
+R00474,A00587,Phone Call,Not Sent,
+R00475,A00588,Email,Not Sent,Requested Reschedule
+R00476,A00589,SMS,Sent,
+R00477,A00590,Phone Call,Failed,
+R00478,A00591,Email,Sent,No Response
+R00479,A00592,Phone Call,Failed,No Response
+R00480,A00593,Phone Call,Failed,
+R00481,A00594,Email,Not Sent,
+R00482,A00595,Phone Call,Not Sent,
+R00483,A00596,Phone Call,Sent,Confirmed
+R00484,A00597,Email,Not Sent,
+R00485,A00598,SMS,Failed,Requested Reschedule
+R00486,A00599,Phone Call,Sent,No Response
+R00487,A00600,Email,Not Sent,Confirmed
+R00488,A00601,Phone Call,Sent,
+R00489,A00603,SMS,Sent,No Response
+R00490,A00604,Email,Failed,Confirmed
+R00491,A00605,Phone Call,Failed,Confirmed
+R00492,A00606,SMS,Not Sent,Requested Reschedule
+R00493,A00607,Phone Call,Failed,
+R00494,A00608,Phone Call,Failed,Confirmed
+R00495,A00609,Email,Failed,Requested Reschedule
+R00496,A00610,Email,Failed,Confirmed
+R00497,A00611,Email,Failed,
+R00498,A00613,Phone Call,Sent,Requested Reschedule
+R00499,A00615,Email,Not Sent,Confirmed
+R00500,A00616,Phone Call,Failed,Confirmed
+R00501,A00618,Email,Sent,Confirmed
+R00502,A00620,SMS,Failed,Requested Reschedule
+R00503,A00621,Phone Call,Not Sent,
+R00504,A00622,Email,Sent,Requested Reschedule
+R00505,A00624,SMS,Not Sent,Requested Reschedule
+R00506,A00625,Email,Failed,
+R00507,A00626,Email,Sent,Confirmed
+R00508,A00627,SMS,Sent,
+R00509,A00628,Phone Call,Not Sent,
+R00510,A00630,Email,Not Sent,
+R00511,A00631,Phone Call,Sent,No Response
+R00512,A00632,Email,Sent,No Response
+R00513,A00633,Phone Call,Failed,
+R00514,A00634,Phone Call,Sent,No Response
+R00515,A00635,Phone Call,Failed,No Response
+R00516,A00636,SMS,Sent,
+R00517,A00637,SMS,Sent,Confirmed
+R00518,A00639,Phone Call,Failed,
+R00519,A00640,SMS,Sent,No Response
+R00520,A00641,Phone Call,Sent,Requested Reschedule
+R00521,A00642,Email,Sent,Confirmed
+R00522,A00643,SMS,Sent,Confirmed
+R00523,A00644,Phone Call,Failed,Confirmed
+R00524,A00646,Email,Sent,
+R00525,A00648,Email,Not Sent,Confirmed
+R00526,A00649,Phone Call,Not Sent,Requested Reschedule
+R00527,A00651,Phone Call,Sent,Requested Reschedule
+R00528,A00653,Phone Call,Not Sent,No Response
+R00529,A00654,SMS,Sent,No Response
+R00530,A00656,Phone Call,Failed,Confirmed
+R00531,A00657,Phone Call,Not Sent,Confirmed
+R00532,A00658,Phone Call,Failed,No Response
+R00533,A00661,Phone Call,Not Sent,Requested Reschedule
+R00534,A00662,Email,Not Sent,Confirmed
+R00535,A00663,Phone Call,Sent,No Response
+R00536,A00664,Email,Failed,Requested Reschedule
+R00537,A00665,Phone Call,Sent,
+R00538,A00666,Phone Call,Failed,Requested Reschedule
+R00539,A00667,SMS,Sent,Requested Reschedule
+R00540,A00669,Email,Failed,Requested Reschedule
+R00541,A00670,SMS,Sent,Requested Reschedule
+R00542,A00673,Email,Failed,Requested Reschedule
+R00543,A00674,Email,Sent,No Response
+R00544,A00675,Phone Call,Sent,Requested Reschedule
+R00545,A00676,Phone Call,Not Sent,Requested Reschedule
+R00546,A00677,Email,Sent,No Response
+R00547,A00678,SMS,Not Sent,No Response
+R00548,A00679,Phone Call,Not Sent,Requested Reschedule
+R00549,A00680,SMS,Sent,No Response
+R00550,A00681,Email,Not Sent,No Response
+R00551,A00682,Phone Call,Failed,
+R00552,A00684,Phone Call,Sent,Requested Reschedule
+R00553,A00685,SMS,Failed,Requested Reschedule
+R00554,A00686,SMS,Failed,No Response
+R00555,A00689,SMS,Not Sent,No Response
+R00556,A00691,SMS,Not Sent,No Response
+R00557,A00692,SMS,Failed,Requested Reschedule
+R00558,A00693,Email,Failed,No Response
+R00559,A00694,Phone Call,Not Sent,
+R00560,A00696,SMS,Sent,No Response
+R00561,A00699,Phone Call,Not Sent,
+R00562,A00700,Phone Call,Sent,No Response
+R00563,A00701,SMS,Sent,
+R00564,A00702,Phone Call,Sent,Confirmed
+R00565,A00704,Phone Call,Failed,No Response
+R00566,A00705,SMS,Not Sent,
+R00567,A00706,Email,Sent,Requested Reschedule
+R00568,A00707,Email,Sent,
+R00569,A00708,SMS,Not Sent,Requested Reschedule
+R00570,A00709,Phone Call,Sent,Confirmed
+R00571,A00711,SMS,Failed,Confirmed
+R00572,A00712,Phone Call,Not Sent,
+R00573,A00714,Email,Sent,Confirmed
+R00574,A00715,Phone Call,Sent,
+R00575,A00717,SMS,Failed,
+R00576,A00718,SMS,Failed,Confirmed
+R00577,A00719,Phone Call,Failed,Requested Reschedule
+R00578,A00720,Email,Failed,Requested Reschedule
+R00579,A00721,Email,Sent,Requested Reschedule
+R00580,A00723,SMS,Sent,
+R00581,A00724,SMS,Sent,No Response
+R00582,A00725,Email,Failed,No Response
+R00583,A00726,SMS,Sent,
+R00584,A00727,Phone Call,Not Sent,
+R00585,A00728,SMS,Not Sent,No Response
+R00586,A00729,SMS,Sent,Requested Reschedule
+R00587,A00731,Email,Failed,No Response
+R00588,A00733,Phone Call,Not Sent,No Response
+R00589,A00735,Phone Call,Failed,Confirmed
+R00590,A00736,Phone Call,Not Sent,Confirmed
+R00591,A00737,SMS,Sent,Requested Reschedule
+R00592,A00738,Phone Call,Failed,
+R00593,A00739,Phone Call,Failed,Confirmed
+R00594,A00741,Email,Failed,Requested Reschedule
+R00595,A00745,Phone Call,Sent,Requested Reschedule
+R00596,A00747,SMS,Not Sent,
+R00597,A00748,Phone Call,Sent,No Response
+R00598,A00749,Phone Call,Sent,No Response
+R00599,A00750,SMS,Failed,No Response
+R00600,A00751,Email,Failed,Requested Reschedule
+R00601,A00752,Phone Call,Failed,Confirmed
+R00602,A00753,Phone Call,Failed,
+R00603,A00754,SMS,Not Sent,
+R00604,A00755,Phone Call,Failed,No Response
+R00605,A00756,Email,Sent,Confirmed
+R00606,A00757,Email,Failed,No Response
+R00607,A00758,Email,Sent,
+R00608,A00759,Phone Call,Not Sent,Confirmed
+R00609,A00760,Phone Call,Sent,
+R00610,A00761,SMS,Sent,Requested Reschedule
+R00611,A00762,Email,Failed,Confirmed
+R00612,A00763,Email,Sent,Confirmed
+R00613,A00764,Email,Sent,
+R00614,A00765,Phone Call,Failed,Requested Reschedule
+R00615,A00766,SMS,Not Sent,Confirmed
+R00616,A00767,SMS,Failed,No Response
+R00617,A00769,Phone Call,Failed,Requested Reschedule
+R00618,A00770,Email,Failed,
+R00619,A00772,SMS,Sent,No Response
+R00620,A00773,Email,Not Sent,Requested Reschedule
+R00621,A00774,SMS,Not Sent,Confirmed
+R00622,A00775,Email,Sent,No Response
+R00623,A00776,Email,Not Sent,
+R00624,A00778,Email,Failed,Requested Reschedule
+R00625,A00780,Phone Call,Not Sent,
+R00626,A00781,SMS,Sent,Confirmed
+R00627,A00782,SMS,Sent,No Response
+R00628,A00783,Email,Not Sent,No Response
+R00629,A00784,SMS,Not Sent,No Response
+R00630,A00785,Phone Call,Failed,No Response
+R00631,A00786,SMS,Sent,No Response
+R00632,A00787,Phone Call,Failed,
+R00633,A00788,SMS,Failed,No Response
+R00634,A00789,Phone Call,Failed,Confirmed
+R00635,A00790,Phone Call,Not Sent,
+R00636,A00792,SMS,Not Sent,Requested Reschedule
+R00637,A00793,SMS,Failed,
+R00638,A00794,Phone Call,Not Sent,Confirmed
+R00639,A00795,Phone Call,Not Sent,Confirmed
+R00640,A00797,Phone Call,Failed,Confirmed
+R00641,A00798,Phone Call,Not Sent,Requested Reschedule
+R00642,A00799,Phone Call,Sent,No Response
+R00643,A00800,Phone Call,Failed,Requested Reschedule
+R00644,A00801,Email,Sent,Requested Reschedule
+R00645,A00803,Phone Call,Failed,No Response
+R00646,A00804,Email,Failed,
+R00647,A00805,SMS,Failed,
+R00648,A00806,Email,Failed,Confirmed
+R00649,A00807,SMS,Sent,No Response
+R00650,A00808,Phone Call,Sent,
+R00651,A00809,SMS,Sent,Confirmed
+R00652,A00810,Email,Failed,Requested Reschedule
+R00653,A00811,SMS,Not Sent,Confirmed
+R00654,A00812,SMS,Sent,No Response
+R00655,A00813,Phone Call,Failed,Requested Reschedule
+R00656,A00815,SMS,Not Sent,Requested Reschedule
+R00657,A00818,Phone Call,Sent,Confirmed
+R00658,A00821,Email,Sent,Confirmed
+R00659,A00822,Email,Sent,No Response
+R00660,A00823,SMS,Sent,Requested Reschedule
+R00661,A00824,Email,Not Sent,
+R00662,A00825,Email,Sent,No Response
+R00663,A00826,SMS,Sent,Confirmed
+R00664,A00827,SMS,Failed,Confirmed
+R00665,A00829,SMS,Failed,No Response
+R00666,A00830,Phone Call,Not Sent,
+R00667,A00831,Email,Sent,No Response
+R00668,A00832,Phone Call,Sent,No Response
+R00669,A00833,Email,Failed,
+R00670,A00835,SMS,Sent,
+R00671,A00836,SMS,Not Sent,Confirmed
+R00672,A00837,Phone Call,Failed,No Response
+R00673,A00838,Email,Sent,No Response
+R00674,A00839,Phone Call,Not Sent,Requested Reschedule
+R00675,A00840,Email,Not Sent,Requested Reschedule
+R00676,A00841,Phone Call,Failed,Confirmed
+R00677,A00843,Phone Call,Sent,
+R00678,A00844,Email,Not Sent,
+R00679,A00845,SMS,Not Sent,
+R00680,A00847,Phone Call,Not Sent,Requested Reschedule
+R00681,A00848,Email,Not Sent,No Response
+R00682,A00850,Email,Sent,Requested Reschedule
+R00683,A00851,SMS,Not Sent,No Response
+R00684,A00852,SMS,Not Sent,Requested Reschedule
+R00685,A00854,Email,Failed,Confirmed
+R00686,A00855,Email,Failed,Requested Reschedule
+R00687,A00856,Email,Sent,Confirmed
+R00688,A00858,Phone Call,Not Sent,Confirmed
+R00689,A00859,Phone Call,Sent,No Response
+R00690,A00860,Email,Not Sent,No Response
+R00691,A00861,SMS,Not Sent,No Response
+R00692,A00862,Phone Call,Not Sent,No Response
+R00693,A00863,Phone Call,Sent,
+R00694,A00864,SMS,Sent,
+R00695,A00865,Phone Call,Failed,Confirmed
+R00696,A00866,Phone Call,Failed,
+R00697,A00867,Phone Call,Not Sent,
+R00698,A00868,SMS,Failed,
+R00699,A00869,Email,Sent,
+R00700,A00870,Email,Not Sent,Confirmed
+R00701,A00871,Email,Failed,Confirmed
+R00702,A00872,SMS,Not Sent,Requested Reschedule
+R00703,A00873,SMS,Failed,Confirmed
+R00704,A00874,Email,Failed,Confirmed
+R00705,A00875,Phone Call,Failed,Requested Reschedule
+R00706,A00876,SMS,Failed,Confirmed
+R00707,A00877,SMS,Not Sent,
+R00708,A00879,SMS,Failed,No Response
+R00709,A00881,SMS,Sent,Requested Reschedule
+R00710,A00883,Email,Not Sent,Requested Reschedule
+R00711,A00884,Phone Call,Failed,
+R00712,A00887,Phone Call,Sent,
+R00713,A00888,SMS,Sent,Requested Reschedule
+R00714,A00890,SMS,Failed,
+R00715,A00892,Email,Sent,
+R00716,A00893,Email,Sent,No Response
+R00717,A00894,Email,Not Sent,Requested Reschedule
+R00718,A00895,SMS,Not Sent,Confirmed
+R00719,A00897,Phone Call,Sent,No Response
+R00720,A00898,Email,Sent,Confirmed
+R00721,A00900,SMS,Sent,Requested Reschedule
+R00722,A00901,SMS,Not Sent,
+R00723,A00903,Phone Call,Failed,Confirmed
+R00724,A00905,Phone Call,Failed,No Response
+R00725,A00906,Phone Call,Not Sent,Requested Reschedule
+R00726,A00907,Email,Sent,Confirmed
+R00727,A00908,Phone Call,Sent,No Response
+R00728,A00909,Phone Call,Sent,Requested Reschedule
+R00729,A00910,SMS,Sent,Requested Reschedule
+R00730,A00911,Phone Call,Sent,Requested Reschedule
+R00731,A00912,Phone Call,Sent,
+R00732,A00913,SMS,Sent,Confirmed
+R00733,A00914,Phone Call,Not Sent,No Response
+R00734,A00915,SMS,Not Sent,
+R00735,A00916,Email,Failed,
+R00736,A00917,Phone Call,Failed,Confirmed
+R00737,A00918,Email,Sent,Requested Reschedule
+R00738,A00920,Phone Call,Sent,No Response
+R00739,A00921,Email,Failed,Confirmed
+R00740,A00922,Email,Sent,Requested Reschedule
+R00741,A00925,SMS,Failed,
+R00742,A00926,Email,Failed,Requested Reschedule
+R00743,A00928,Email,Failed,Requested Reschedule
+R00744,A00929,Phone Call,Not Sent,
+R00745,A00931,SMS,Not Sent,Requested Reschedule
+R00746,A00932,Phone Call,Not Sent,Confirmed
+R00747,A00933,SMS,Not Sent,Confirmed
+R00748,A00934,SMS,Failed,
+R00749,A00935,Email,Failed,Requested Reschedule
+R00750,A00936,Phone Call,Not Sent,
+R00751,A00937,SMS,Failed,Requested Reschedule
+R00752,A00938,SMS,Not Sent,Requested Reschedule
+R00753,A00940,SMS,Sent,
+R00754,A00942,Phone Call,Failed,
+R00755,A00943,Email,Not Sent,Confirmed
+R00756,A00944,Email,Not Sent,
+R00757,A00945,Phone Call,Failed,Requested Reschedule
+R00758,A00946,SMS,Not Sent,Confirmed
+R00759,A00947,SMS,Sent,
+R00760,A00948,Email,Sent,Requested Reschedule
+R00761,A00950,Email,Sent,Requested Reschedule
+R00762,A00951,SMS,Failed,Requested Reschedule
+R00763,A00952,SMS,Not Sent,No Response
+R00764,A00953,SMS,Not Sent,
+R00765,A00955,Email,Failed,No Response
+R00766,A00956,SMS,Not Sent,No Response
+R00767,A00957,SMS,Not Sent,Confirmed
+R00768,A00958,Email,Not Sent,No Response
+R00769,A00959,Email,Failed,No Response
+R00770,A00960,Email,Not Sent,Requested Reschedule
+R00771,A00961,Phone Call,Failed,Confirmed
+R00772,A00962,Phone Call,Not Sent,Confirmed
+R00773,A00963,SMS,Failed,Requested Reschedule
+R00774,A00964,Phone Call,Failed,
+R00775,A00965,SMS,Sent,No Response
+R00776,A00966,Phone Call,Failed,
+R00777,A00967,SMS,Sent,Requested Reschedule
+R00778,A00971,SMS,Not Sent,
+R00779,A00973,SMS,Failed,Requested Reschedule
+R00780,A00974,Phone Call,Sent,Confirmed
+R00781,A00975,Phone Call,Sent,Requested Reschedule
+R00782,A00976,Phone Call,Failed,No Response
+R00783,A00979,Email,Sent,Confirmed
+R00784,A00980,Email,Sent,
+R00785,A00981,Phone Call,Sent,Confirmed
+R00786,A00982,SMS,Not Sent,Confirmed
+R00787,A00983,Phone Call,Failed,Confirmed
+R00788,A00984,SMS,Failed,Confirmed
+R00789,A00985,Phone Call,Not Sent,Confirmed
+R00790,A00987,SMS,Not Sent,
+R00791,A00990,Phone Call,Failed,
+R00792,A00993,Phone Call,Failed,Confirmed
+R00793,A00994,SMS,Not Sent,No Response
+R00794,A00995,Email,Not Sent,Confirmed
+R00795,A00997,Email,Not Sent,No Response
+R00796,A00998,Phone Call,Failed,
+R00797,A00999,SMS,Failed,No Response
+R00798,A01000,SMS,Sent,Confirmed
+R00799,A01001,Phone Call,Failed,Requested Reschedule
+R00800,A01002,SMS,Not Sent,No Response
+R00801,A01003,Phone Call,Not Sent,Requested Reschedule
+R00802,A01004,SMS,Sent,No Response
+R00803,A01005,Phone Call,Not Sent,Confirmed
+R00804,A01006,SMS,Sent,No Response
+R00805,A01007,Email,Not Sent,
+R00806,A01008,Email,Failed,Requested Reschedule
+R00807,A01009,Phone Call,Failed,Requested Reschedule
+R00808,A01010,SMS,Sent,
+R00809,A01011,Email,Sent,No Response
+R00810,A01012,SMS,Not Sent,No Response
+R00811,A01013,SMS,Failed,
+R00812,A01014,SMS,Sent,Requested Reschedule
+R00813,A01015,SMS,Sent,Confirmed
+R00814,A01016,SMS,Sent,Requested Reschedule
+R00815,A01018,SMS,Failed,No Response
+R00816,A01020,SMS,Failed,No Response
+R00817,A01021,SMS,Sent,Requested Reschedule
+R00818,A01022,Phone Call,Not Sent,No Response
+R00819,A01023,SMS,Sent,Requested Reschedule
+R00820,A01024,Phone Call,Sent,Requested Reschedule
+R00821,A01025,Email,Not Sent,
+R00822,A01026,SMS,Sent,No Response
+R00823,A01027,Phone Call,Failed,Requested Reschedule
+R00824,A01028,SMS,Not Sent,No Response
+R00825,A01029,Email,Not Sent,No Response
+R00826,A01030,SMS,Sent,Requested Reschedule
+R00827,A01031,Email,Failed,No Response
+R00828,A01034,Email,Sent,
+R00829,A01035,Email,Sent,
+R00830,A01036,Email,Failed,
+R00831,A01037,Email,Failed,Requested Reschedule
+R00832,A01038,Phone Call,Not Sent,
+R00833,A01039,SMS,Failed,Confirmed
+R00834,A01040,SMS,Sent,
+R00835,A01041,Phone Call,Failed,
+R00836,A01042,Email,Failed,Requested Reschedule
+R00837,A01043,Phone Call,Sent,Requested Reschedule
+R00838,A01044,Phone Call,Sent,Confirmed
+R00839,A01045,Phone Call,Failed,
+R00840,A01046,Phone Call,Failed,Requested Reschedule
+R00841,A01047,SMS,Failed,Confirmed
+R00842,A01048,Phone Call,Failed,Confirmed
+R00843,A01050,Phone Call,Not Sent,Confirmed
+R00844,A01052,SMS,Sent,Requested Reschedule
+R00845,A01053,Email,Failed,No Response
+R00846,A01054,SMS,Failed,Requested Reschedule
+R00847,A01055,SMS,Sent,Requested Reschedule
+R00848,A01056,Phone Call,Failed,Requested Reschedule
+R00849,A01059,Email,Sent,
+R00850,A01060,SMS,Sent,
+R00851,A01061,Phone Call,Not Sent,No Response
+R00852,A01062,Email,Not Sent,
+R00853,A01064,SMS,Sent,Requested Reschedule
+R00854,A01065,SMS,Not Sent,
+R00855,A01066,Phone Call,Not Sent,Confirmed
+R00856,A01067,Email,Sent,Requested Reschedule
+R00857,A01068,Phone Call,Not Sent,Requested Reschedule
+R00858,A01069,Email,Failed,
+R00859,A01070,Email,Failed,Confirmed
+R00860,A01073,Phone Call,Failed,
+R00861,A01074,Email,Failed,Confirmed
+R00862,A01075,Phone Call,Failed,Confirmed
+R00863,A01076,SMS,Failed,Requested Reschedule
+R00864,A01077,SMS,Not Sent,No Response
+R00865,A01079,SMS,Sent,No Response
+R00866,A01080,SMS,Failed,Requested Reschedule
+R00867,A01081,Phone Call,Not Sent,Confirmed
+R00868,A01082,SMS,Not Sent,Confirmed
+R00869,A01083,SMS,Failed,
+R00870,A01085,Email,Failed,
+R00871,A01086,SMS,Sent,No Response
+R00872,A01087,SMS,Not Sent,
+R00873,A01088,Email,Failed,No Response
+R00874,A01089,SMS,Failed,Requested Reschedule
+R00875,A01090,SMS,Sent,
+R00876,A01092,Email,Sent,Requested Reschedule
+R00877,A01094,Email,Not Sent,Confirmed
+R00878,A01095,Phone Call,Not Sent,
+R00879,A01096,Phone Call,Not Sent,Requested Reschedule
+R00880,A01097,SMS,Sent,
+R00881,A01098,Phone Call,Not Sent,
+R00882,A01099,Email,Not Sent,No Response
+R00883,A01100,SMS,Failed,Confirmed
+R00884,A01102,Email,Not Sent,Requested Reschedule
+R00885,A01104,Phone Call,Not Sent,No Response
+R00886,A01105,Phone Call,Not Sent,Confirmed
+R00887,A01106,Phone Call,Sent,Requested Reschedule
+R00888,A01107,Email,Failed,No Response
+R00889,A01108,Email,Sent,Confirmed
+R00890,A01109,Phone Call,Not Sent,
+R00891,A01110,Phone Call,Failed,No Response
+R00892,A01111,Email,Failed,Confirmed
+R00893,A01113,Phone Call,Not Sent,
+R00894,A01114,Email,Sent,No Response
+R00895,A01116,SMS,Failed,No Response
+R00896,A01118,SMS,Sent,Requested Reschedule
+R00897,A01119,SMS,Failed,No Response
+R00898,A01120,SMS,Sent,Requested Reschedule
+R00899,A01121,Email,Sent,No Response
+R00900,A01122,Phone Call,Not Sent,No Response
+R00901,A01123,Phone Call,Not Sent,Confirmed
+R00902,A01124,Email,Failed,Confirmed
+R00903,A01125,SMS,Failed,No Response
+R00904,A01126,SMS,Sent,No Response
+R00905,A01127,Phone Call,Sent,Confirmed
+R00906,A01129,SMS,Sent,No Response
+R00907,A01132,Phone Call,Sent,Confirmed
+R00908,A01133,Email,Failed,Requested Reschedule
+R00909,A01134,Email,Not Sent,No Response
+R00910,A01135,SMS,Failed,Confirmed
+R00911,A01136,SMS,Failed,Requested Reschedule
+R00912,A01137,SMS,Not Sent,Requested Reschedule
+R00913,A01138,SMS,Failed,No Response
+R00914,A01139,SMS,Failed,Requested Reschedule
+R00915,A01140,Phone Call,Sent,
+R00916,A01141,Email,Failed,Confirmed
+R00917,A01142,Phone Call,Not Sent,No Response
+R00918,A01144,Email,Not Sent,
+R00919,A01146,SMS,Sent,Requested Reschedule
+R00920,A01147,Email,Not Sent,Requested Reschedule
+R00921,A01148,Email,Failed,Confirmed
+R00922,A01150,Email,Not Sent,No Response
+R00923,A01151,SMS,Sent,No Response
+R00924,A01152,SMS,Sent,Requested Reschedule
+R00925,A01153,SMS,Sent,Confirmed
+R00926,A01154,SMS,Failed,Requested Reschedule
+R00927,A01155,SMS,Sent,Confirmed
+R00928,A01157,SMS,Failed,Requested Reschedule
+R00929,A01158,Email,Not Sent,Confirmed
+R00930,A01160,SMS,Failed,Confirmed
+R00931,A01162,Email,Sent,No Response
+R00932,A01163,Email,Not Sent,No Response
+R00933,A01164,Email,Sent,
+R00934,A01165,SMS,Failed,Confirmed
+R00935,A01167,Email,Sent,Confirmed
+R00936,A01170,SMS,Sent,No Response
+R00937,A01171,Phone Call,Failed,
+R00938,A01172,Phone Call,Sent,No Response
+R00939,A01173,Phone Call,Sent,Requested Reschedule
+R00940,A01174,Phone Call,Not Sent,No Response
+R00941,A01176,Phone Call,Failed,
+R00942,A01177,Email,Failed,
+R00943,A01178,Phone Call,Failed,No Response
+R00944,A01179,SMS,Failed,
+R00945,A01180,Email,Failed,No Response
+R00946,A01181,Phone Call,Failed,
+R00947,A01182,Email,Failed,
+R00948,A01183,SMS,Sent,Requested Reschedule
+R00949,A01184,SMS,Sent,No Response
+R00950,A01185,Phone Call,Not Sent,Requested Reschedule
+R00951,A01186,Email,Failed,
+R00952,A01187,Email,Failed,Requested Reschedule
+R00953,A01189,Phone Call,Sent,Confirmed
+R00954,A01191,Email,Failed,Requested Reschedule
+R00955,A01192,Email,Not Sent,
+R00956,A01193,Email,Not Sent,Confirmed
+R00957,A01194,SMS,Failed,No Response
+R00958,A01195,Email,Failed,Confirmed
+R00959,A01196,Email,Sent,Requested Reschedule
+R00960,A01197,Phone Call,Not Sent,No Response
+R00961,A01198,SMS,Not Sent,No Response
+R00962,A01199,Phone Call,Sent,
+R00963,A01200,Phone Call,Sent,No Response
+R00964,A00011,Email,Failed,Requested Reschedule

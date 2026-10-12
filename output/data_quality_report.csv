@@ -1,0 +1,6 @@
+Dataset,Records,Attributes,Missing_Cells,Duplicate_Rows
+Appointments,1201,7,2,1
+Patients,250,4,0,0
+Doctors,15,5,0,0
+Reminders,964,5,233,0
+Calendar,365,4,0,0

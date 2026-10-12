@@ -1,0 +1,9 @@
+Metric,Value
+Total appointment records,1200.0
+Attended appointments,742.0
+Cancelled appointments,258.0
+No-show appointments,198.0
+Missing status records,2.0
+Attendance rate (%),78.94
+No-show rate (%),21.06
+Cancellation rate (%),21.54
